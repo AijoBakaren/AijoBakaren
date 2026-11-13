@@ -4,4 +4,3 @@
   <a href="https://kguyaa-chicken.straw.page/">
     <img src="Untitled703_20261113130232.png" width="45%">
   <img src="Untitled703_20261113125107.png" width="45%">
-</p>
